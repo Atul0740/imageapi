@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+*
+{
+    background-color: #ebebeb
+}
+.btn
+{
+    background-color: black;
+    color: white;
+    padding: 15px 40px;
+    border-radius: 5px;
+    margin: 20px;
+    z-index: 2;
+}
+.base
+{
+    text-align: center;
+    margin-top: 80px;
+}
+.search
+{
+    font-size: small;
+    border-radius: 5px;
+    min-width: 950px;
+    min-height: 30px;
+    border: none;
+    background-color: white;
+    padding: 10px;
+    font-family: 'Roboto Condensed', sans-serif;
+    box-shadow: 5px 3px #d1d0d0;
+}
+
+.button
+{
+    z-index: 1;
+}
+.image{
+width:281px;
+height:173px;
+border-radius: 5px;
+margin:10px;
+}
+.photodiv
+{
+    margin-left: 20px;
+    margin-right: 70px;
+
+}
